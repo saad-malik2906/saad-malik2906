@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saad%20Malik&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Automation%20Architect&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Saad%20Malik&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Developer%20%7C%20Automation%20Architect&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/saad-malik2906" target="_blank" rel="noopener noreferrer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+that+works+while+you+sleep.;Automating+the+repetitive%2C+amplifying+the+human.;LangChain+%7C+LangGraph+%7C+FastAPI+%7C+GCP;Turning+complex+problems+into+elegant+pipelines." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+AI+that+works+while+you+sleep.;Automating+the+repetitive%2C+amplifying+the+human.;LangChain+%7C+LangGraph+%7C+FastAPI+%7C+GCP;Turning+complex+problems+into+elegant+pipelines." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/saad-malik-7a87b720a" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Saad%20Malik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:saadmalik29062002@gmail.com">
+<a href="mailto:saadmalik29062002@gmail.com?subject=Hello%20Saad&body=Hi%20Saad%2C%20I%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out.">
   <img src="https://img.shields.io/badge/Email-saadmalik29062002%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/saad-malik2906" target="_blank" rel="noopener noreferrer">
@@ -138,7 +138,7 @@ Got an interesting project or just want to talk tech? Feel free to reach out.
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:saadmalik29062002@gmail.com">
+<a href="mailto:saadmalik29062002@gmail.com?subject=Hello%20Saad&body=Hi%20Saad%2C%20I%20came%20across%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out.">
   <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
